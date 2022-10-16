@@ -29,13 +29,7 @@ const MapWindowItems = (props) => {
                                     <View style={st.dubl}/>
                                     {tableMaper(l)}
                                 </View>
-                            )}
-
-                })}
-            </>
-        )
-    }
-
+                            )}})}</>)}
     return (
         tableRender()
     );
